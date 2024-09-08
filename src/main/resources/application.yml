@@ -1,0 +1,11 @@
+spring:
+  application.name: churchaudios
+  data:
+    mongodb:
+      uri: ''
+cloud:
+  aws:
+    s3:
+      accessKey: ''
+      secretKey: ''
+      region: 'us-east-1'
